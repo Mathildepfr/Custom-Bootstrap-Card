@@ -30,3 +30,7 @@ Provide the component with simple responsive behaviors triggered when  screen si
 
 
 ## The Custom Boostrap Card - Objective B & C
+Improve the design as you wish.
+
+Create a SCSS mixin defining design variations for each bootstrap contextual class (primary, secondary, success, danger, warning, info, light, dark).
+Classes should be applied on the component’s main `<div>` and trigger the style for all inner elements.
