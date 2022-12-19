@@ -1,0 +1,28 @@
+$container-max-widths: (
+  sm: 600px,
+);
+
+$theme-colors: (
+  "dark": #1C1E27,
+  "light": #F4F4F4,
+  "danger": #a7393e,
+  "primary": #216450,
+  "secondary": #a4a4a483,
+  "success": #409B7F,
+  "warning": #a90e15,
+  "info": #249d79,
+);
+
+$nav-pills-link-active-bg: #409B7F;
+$nav-pills-border-radius: 5px 5px 0px 0px;
+
+$nav-link-color: #409B7F;
+$nav-link-hover-color: black;
+$nav-link-disabled-color: #a4a4a483;
+
+.nav-pills .nav-link {
+  padding: 10px 20px;
+}
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
