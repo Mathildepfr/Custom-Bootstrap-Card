@@ -1,6 +1,8 @@
 # Custom-Bootstrap-Card
 UI/UX Design
 
+https://mathildepfr.github.io/Custom-Bootstrap-Card/
+
 ### Prerequisites
 
 <li>SASS/SCSS preprocessor</li>
@@ -34,3 +36,6 @@ Improve the design as you wish.
 
 Create a SCSS mixin defining design variations for each bootstrap contextual class (primary, secondary, success, danger, warning, info, light, dark).
 Classes should be applied on the component’s main `<div>` and trigger the style for all inner elements.
+
+![Boostrap Card Custom](https://user-images.githubusercontent.com/86634734/208413361-fac33369-a070-4a18-8e9a-8955deaca17a.png)
+
